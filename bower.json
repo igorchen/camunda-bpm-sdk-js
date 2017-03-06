@@ -7,7 +7,7 @@
   "homepage": "http://camunda.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/camunda/camunda-bpm-sdk-js"
+    "url": "https://github.com/igorchen/camunda-bpm-sdk-js"
   },
   "keywords": [
     "camunda",
