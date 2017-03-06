@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/camunda/camunda-bpm-sdk-js.git"
+    "url": "git://github.com/igorchen/camunda-bpm-sdk-js.git"
   },
   "keywords": [
     "camunda-bpm",
